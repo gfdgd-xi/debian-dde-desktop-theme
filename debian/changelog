@@ -1,0 +1,64 @@
+deepin-desktop-theme (1.0.8) unstable; urgency=medium
+
+  * fix organic-glass and squre theme
+  * fix README by hotime
+
+ -- Wang Zichong <chenhongtao@deepin.org>  Thu, 08 Aug 2023 14:20:00 +0800
+
+deepin-desktop-theme (1.0.7) unstable; urgency=medium
+
+  * 新增 square 主题
+  * 补充部分常见应用图标与缺失图标
+
+ -- Wang Zichong <wangzichong@deepin.org>  Fri, 14 Jul 2023 11:37:00 +0800
+
+deepin-desktop-theme (1.0.6) unstable; urgency=medium
+
+  * 新增马卡龙主题
+  * 补充部分常见应用图标
+  * 压缩 dci 图标大小
+
+ -- chenke <chenke@deepin.org>  Mon, 03 Apr 2023 13:59:38 +0800
+
+deepin-desktop-theme (1.0.5) unstable; urgency=medium
+
+  [ TagBuilder ]
+  * fix: 添加dock面板图标至flow(Bug: 184085)(Influence: flow主题资源更新)
+
+ -- lvpeilong <lvpeilong@uniontech.com>  Wed, 01 Feb 2023 10:33:07 +0800
+
+deepin-desktop-theme (1.0.4.1) unstable; urgency=medium
+
+  [ Deepin Packages Builder ]
+  * fix: 添加bloom,Vintage主题(Task: 234693)(Influence: 控制中心-个性化-主题)
+
+ -- caixiangrong <caixiangrong@uniontech.com>  Tue, 10 Jan 2023 13:45:38 +0800
+
+deepin-desktop-theme (1.0.4) unstable; urgency=medium
+
+  [ TagBuilder ]
+  * fix: 更新主题资源(Task: 234693)(Influence: 控制中心-个性化-主题)
+
+ -- lvpeilong <lvpeilong@uniontech.com>  Fri, 06 Jan 2023 15:39:38 +0800
+
+deepin-desktop-theme (1.0.3) unstable; urgency=medium
+
+  [ TagBuilder ]
+  * fix: 修改高可定主题包活动色(Task: 224771)(Influence: 控制中心-个性化-主题)
+  * fix: 修改透明度默认值(Bug: 179325)(Influence: 控制中心-个性化-透明度调节-默认值)
+
+ -- zhaoyingzhen <zhaoyingzhen@uniontech.com>  Thu, 29 Dec 2022 15:15:20 +0800
+
+deepin-desktop-theme (1.0.2) unstable; urgency=medium
+
+  [ TagBuilder ]
+  * fix: 创建deepin-desktop-theme虚包(Bug: 207495)(Influence: 控制中心-个性化)
+  * fix: 处理镜像冲突(Task: 225151)(Influence: 无)
+
+ -- zhaoyingzhen <zhaoyingzhen@uniontech.com>  Tue, 13 Dec 2022 19:26:36 +0800
+
+deepin-desktop-theme (1.0.1) unstable; urgency=medium
+
+  * Initial release
+
+-- caixiangrong <caixiangrong@uniontech.com>  Mon, 5 Dec 2022 12:12:33 +0800
