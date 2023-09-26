@@ -1,63 +1,63 @@
-Source: deepin-desktop-theme
+Source: debian-dde-desktop-theme
 Section: devel
 Priority: optional
-Maintainer: caixiangrong <caixiangrong@uniontech.com>
+Maintainer: gfdgd xi <3025613752@qq.com>, caixiangrong <caixiangrong@uniontech.com>
 Build-Depends: debhelper (>= 9),
    cmake
 Standards-Version: 3.9.8
 Homepage: http://www.deepin.org
 
-Package: deepin-theme-bloom
+Package: debian-dde-theme-bloom
 Architecture: any
-Depends: ${misc:Depends},${shlibs:Depends},deepin-icon-theme
+Depends: ${misc:Depends},${shlibs:Depends},debian-dde-icon-theme
 Description: deepin desktop-environment - bloom theme
  deepin theme bloom.
 
-Package: deepin-theme-vintage
+Package: debian-dde-theme-vintage
 Architecture: any
-Depends: ${misc:Depends},${shlibs:Depends},deepin-icon-theme
+Depends: ${misc:Depends},${shlibs:Depends},debian-dde-icon-theme
 Description: deepin desktop-environment - Vintage theme
  deepin theme Vintage icon.
 
-Package: deepin-theme-flow
+Package: debian-dde-theme-flow
 Architecture: any
-Depends: ${misc:Depends},${shlibs:Depends},deepin-icon-theme
+Depends: ${misc:Depends},${shlibs:Depends},debian-dde-icon-theme
 Description: deepin desktop-environment - flow theme
  deepin theme flow.
 
-Package: deepin-theme-square
+Package: debian-dde-theme-square
 Architecture: any
-Depends: ${misc:Depends},${shlibs:Depends},deepin-icon-theme
+Depends: ${misc:Depends},${shlibs:Depends},debian-dde-icon-theme
 Description: deepin desktop-environment - square theme
  deepin theme square.
 
-Package: deepin-theme-hazy-color
+Package: debian-dde-theme-hazy-color
 Architecture: any
 Depends: ${misc:Depends},${shlibs:Depends},
 Description: deepin desktop-environment - hazy color theme
  deepin theme hazy color.
 
-Package: deepin-theme-organic-glass
+Package: debian-dde-theme-organic-glass
 Architecture: any
 Depends: ${misc:Depends},${shlibs:Depends},
 Description: deepin desktop-environment - organic glass theme
  deepin theme organic glass.
 
-Package: deepin-theme-macaron
+Package: debian-dde-theme-macaron
 Architecture: any
 Depends: ${misc:Depends},${shlibs:Depends},
 Description: deepin desktop-environment - macaron theme
  deepin theme organic glass.
 
-Package: deepin-desktop-theme
+Package: debian-dde-desktop-theme
 Architecture: any
 Depends:
-   deepin-theme-bloom,
-   deepin-theme-vintage,
-   deepin-theme-organic-glass,
-   deepin-theme-hazy-color,
-   deepin-theme-flow,
-   deepin-theme-square,
-   deepin-theme-macaron
+   debian-dde-theme-bloom,
+   debian-dde-theme-vintage,
+   debian-dde-theme-organic-glass,
+   debian-dde-theme-hazy-color,
+   debian-dde-theme-flow,
+   debian-dde-theme-square,
+   debian-dde-theme-macaron
 Description: deepin desktop theme
  This package is DeepinDesktopTheme
